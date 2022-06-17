@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
 
         webView = (WebView) findViewById(R.id.webview);
         webView.getSettings().setJavaScriptEnabled(true);
-        webView.loadUrl("https://codepen.io/aditya67/full/XWZGEKj");
+        webView.loadUrl("https://codepen.io/kaustav1996/full/WNMadRY");
 
         ProgressDialog progressDialog = new ProgressDialog(this);
         
